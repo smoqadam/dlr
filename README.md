@@ -7,6 +7,10 @@
 
 - [x] Youtube Download
 
+- [ ] FTP Downloader
+
+- [ ] BitTorrent Downlaoder
+
 - [ ] Cuncurrent Download
 
 - [ ] Add more Providers (Vimeo, BuzzFeed, etc.)
